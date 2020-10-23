@@ -1,0 +1,958 @@
+fileFormatVersion: 2
+guid: 5e27fc972be3aa445b7e59bb7465a5ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6744146434187287584
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_0
+  - first:
+      213: -1482582571689811770
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_1
+  - first:
+      213: 1863934349730905033
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_2
+  - first:
+      213: 3304226055595348164
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_3
+  - first:
+      213: -8392025872788586627
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_4
+  - first:
+      213: -2572374973830309830
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_5
+  - first:
+      213: -5288589191833478140
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_6
+  - first:
+      213: 1136754408337009301
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_7
+  - first:
+      213: 5949804691497911531
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_8
+  - first:
+      213: -1901903452572030753
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_9
+  - first:
+      213: -8551044977002123477
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_10
+  - first:
+      213: -7555487805641253438
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_11
+  - first:
+      213: 8534619189182216789
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_12
+  - first:
+      213: 1773162296400097567
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_13
+  - first:
+      213: 6358563989330426110
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_14
+  - first:
+      213: 8989166836988748959
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_15
+  - first:
+      213: -2707073853270340393
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_16
+  - first:
+      213: -7788865663067434247
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_17
+  - first:
+      213: 8309252497653701701
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_18
+  - first:
+      213: 3210284709522647755
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_19
+  - first:
+      213: 6945034773676740761
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_20
+  - first:
+      213: 6701151081020039318
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_21
+  - first:
+      213: -4154154398384116296
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_22
+  - first:
+      213: 2247763963053663706
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_23
+  - first:
+      213: 5224906830301378479
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_24
+  - first:
+      213: -7582532341631599750
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_25
+  - first:
+      213: -2812722354965734227
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_26
+  - first:
+      213: 2916782209135621883
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_27
+  - first:
+      213: -7901760917841707200
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_28
+  - first:
+      213: -3819994716180418819
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_29
+  - first:
+      213: -2244744412678570958
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_30
+  - first:
+      213: -789839210833207570
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_31
+  - first:
+      213: 9202418862197118087
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_32
+  - first:
+      213: 3318616628848274186
+    second: npc_sno_cone_vending_machine__x1_attract_png_1354830747_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 180
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1326
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c53fa2375089d50800000000000000
+      internalID: 6744146434187287584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1326
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c06e30910fcc6be0800000000000000
+      internalID: -1482582571689811770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1326
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbfb506a660ed910800000000000000
+      internalID: 1863934349730905033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_3
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1326
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0d95d4718fadd20800000000000000
+      internalID: 3304226055595348164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_4
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1326
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f7c8a7ee8898b80800000000000000
+      internalID: -8392025872788586627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1105
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a385dbf17961d4cd0800000000000000
+      internalID: -2572374973830309830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_6
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1105
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c9bc176282b96b0800000000000000
+      internalID: -5288589191833478140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1105
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a69c19c1096cf00800000000000000
+      internalID: 1136754408337009301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_8
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1105
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be48fafe7d3f19250800000000000000
+      internalID: 5949804691497911531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_9
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1105
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8ea58f2e41b95e0800000000000000
+      internalID: -1901903452572030753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 884
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f666716e5945980800000000000000
+      internalID: -8551044977002123477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 884
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd15f71fd3852790800000000000000
+      internalID: -7555487805641253438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_12
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 884
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a30782fee017670800000000000000
+      internalID: 8534619189182216789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_13
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 884
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f113b06c6b98b9810800000000000000
+      internalID: 1773162296400097567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_14
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 884
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef871a952482e3850800000000000000
+      internalID: 6358563989330426110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 663
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94af619c9fefbc70800000000000000
+      internalID: 8989166836988748959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_16
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 663
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcc2135caa8e6ad0800000000000000
+      internalID: -2707073853270340393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_17
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 663
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2d0a552f368e390800000000000000
+      internalID: -7788865663067434247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_18
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 663
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c1daf4f15605370800000000000000
+      internalID: 8309252497653701701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_19
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 663
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca27fa3fe83d8c20800000000000000
+      internalID: 3210284709522647755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 442
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990dcbd8458b16060800000000000000
+      internalID: 6945034773676740761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_21
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 442
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690ac6a67654ffc50800000000000000
+      internalID: 6701151081020039318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_22
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 442
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd2036959a7956c0800000000000000
+      internalID: -4154154398384116296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_23
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 442
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5ecbc4a69a13f10800000000000000
+      internalID: 2247763963053663706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_24
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 442
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa730a45419928840800000000000000
+      internalID: 5224906830301378479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b332f520f65c690800000000000000
+      internalID: -7582532341631599750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_26
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 221
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac977cabe337f8d0800000000000000
+      internalID: -2812722354965734227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_27
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 221
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf635b627fd7a7820800000000000000
+      internalID: 2916782209135621883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_28
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 221
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ffaff7f4e475290800000000000000
+      internalID: -7901760917841707200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_29
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 221
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe623a7b07acfac0800000000000000
+      internalID: -3819994716180418819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c30ce89d019d0e0800000000000000
+      internalID: -2244744412678570958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_31
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee9c982c6de905f0800000000000000
+      internalID: -789839210833207570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_32
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 0
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7841d9bd23f85bf70800000000000000
+      internalID: 9202418862197118087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_sno_cone_vending_machine__x1_attract_png_1354830747_33
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 0
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ba43cbd381e0e20800000000000000
+      internalID: 3318616628848274186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2020 @@
+fileFormatVersion: 2
+guid: 8f08eed6410a6e4499dd52094180f788
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2444003417593401672
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_0
+  - first:
+      213: 134476261230186236
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_1
+  - first:
+      213: 716006446323524086
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_2
+  - first:
+      213: 1236302063352448371
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_3
+  - first:
+      213: -5744994066826859489
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_4
+  - first:
+      213: -4731868237715419630
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_5
+  - first:
+      213: 20116820888439367
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_6
+  - first:
+      213: -2177763692936696402
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_7
+  - first:
+      213: -99766381918090621
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_8
+  - first:
+      213: -8195929202181120595
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_9
+  - first:
+      213: 6139681608945738865
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_10
+  - first:
+      213: -779886385217047552
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_11
+  - first:
+      213: 8101313818601166707
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_12
+  - first:
+      213: -5894914791887620985
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_13
+  - first:
+      213: 3080955593458281108
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_14
+  - first:
+      213: 7301607327286346115
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_15
+  - first:
+      213: -4681237500835341382
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_16
+  - first:
+      213: -9047029103872885824
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_17
+  - first:
+      213: 163917678227388003
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_18
+  - first:
+      213: -4888182921778784236
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_19
+  - first:
+      213: 8923060108977704917
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_20
+  - first:
+      213: 8361647703714842407
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_21
+  - first:
+      213: -3362819666768736856
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_22
+  - first:
+      213: -7877159822326633207
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_23
+  - first:
+      213: 4102339942430429477
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_24
+  - first:
+      213: -6347293465254814005
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_25
+  - first:
+      213: -590351813360088225
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_26
+  - first:
+      213: 2133878068381799885
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_27
+  - first:
+      213: 2584661960060801797
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_28
+  - first:
+      213: -4788465829795779699
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_29
+  - first:
+      213: -4829882405588617528
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_30
+  - first:
+      213: 4942825937993053933
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_31
+  - first:
+      213: 975296581035887042
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_32
+  - first:
+      213: -3630322119519028823
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_33
+  - first:
+      213: -8344760702029047208
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_34
+  - first:
+      213: 3758862089529243006
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_35
+  - first:
+      213: -4868571134011560108
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_36
+  - first:
+      213: -7006625831532627335
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_37
+  - first:
+      213: 1220413737165483826
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_38
+  - first:
+      213: -5532415360534983098
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_39
+  - first:
+      213: -3954399774337228798
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_40
+  - first:
+      213: -1599667655259489102
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_41
+  - first:
+      213: 2075854138941739960
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_42
+  - first:
+      213: -6864648525971194439
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_43
+  - first:
+      213: 7954295374928675204
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_44
+  - first:
+      213: -3266424892531135501
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_45
+  - first:
+      213: -5296115707893823267
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_46
+  - first:
+      213: 5367049226725882313
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_47
+  - first:
+      213: 1542913819038880086
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_48
+  - first:
+      213: -4134379362085504047
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_49
+  - first:
+      213: 5190358673603826951
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_50
+  - first:
+      213: -5202482926715577113
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_51
+  - first:
+      213: 7646567948585345254
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_52
+  - first:
+      213: -7102812660152330846
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_53
+  - first:
+      213: -4989782435770340062
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_54
+  - first:
+      213: -7831242248083561634
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_55
+  - first:
+      213: -5102151688347327456
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_56
+  - first:
+      213: -7685912541290313700
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_57
+  - first:
+      213: 2948056251724642287
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_58
+  - first:
+      213: 3468949017647851939
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_59
+  - first:
+      213: 2637723783146252446
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_60
+  - first:
+      213: 8332021486983795670
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_61
+  - first:
+      213: 6437970639837228580
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_62
+  - first:
+      213: -9133528201451494134
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_63
+  - first:
+      213: -8686961383264803059
+    second: npc_sno_cone_vending_machine__x1_idle_stand_png_1354830751_64
+  - first:
+      213: -1756130454554620792
+    second: Snow Cone Machine Idle_0
+  - first:
+      213: -7560194586922338092
+    second: Snow Cone Machine Idle_1
+  - first:
+      213: -5445221260761380051
+    second: Snow Cone Machine Idle_2
+  - first:
+      213: -7291813547451084752
+    second: Snow Cone Machine Idle_3
+  - first:
+      213: -306525999688645273
+    second: Snow Cone Machine Idle_4
+  - first:
+      213: -8065349099274796679
+    second: Snow Cone Machine Idle_5
+  - first:
+      213: -3611732117340490521
+    second: Snow Cone Machine Idle_6
+  - first:
+      213: 2060156220347585535
+    second: Snow Cone Machine Idle_7
+  - first:
+      213: -7146750694390456235
+    second: Snow Cone Machine Idle_8
+  - first:
+      213: 7618441643794822418
+    second: Snow Cone Machine Idle_9
+  - first:
+      213: -2677166706629029496
+    second: Snow Cone Machine Idle_10
+  - first:
+      213: 5989638087382289641
+    second: Snow Cone Machine Idle_11
+  - first:
+      213: -2497536027910572284
+    second: Snow Cone Machine Idle_12
+  - first:
+      213: -8202357469788052605
+    second: Snow Cone Machine Idle_13
+  - first:
+      213: -4723624421915002875
+    second: Snow Cone Machine Idle_14
+  - first:
+      213: 9171722313044202941
+    second: Snow Cone Machine Idle_15
+  - first:
+      213: 3164156044048507727
+    second: Snow Cone Machine Idle_16
+  - first:
+      213: -5907505538687438871
+    second: Snow Cone Machine Idle_17
+  - first:
+      213: 2232089892265077762
+    second: Snow Cone Machine Idle_18
+  - first:
+      213: -2384017333306904308
+    second: Snow Cone Machine Idle_19
+  - first:
+      213: -2814576221213297297
+    second: Snow Cone Machine Idle_20
+  - first:
+      213: 465729822941628213
+    second: Snow Cone Machine Idle_21
+  - first:
+      213: 2983394491052421862
+    second: Snow Cone Machine Idle_22
+  - first:
+      213: 1328726207975097082
+    second: Snow Cone Machine Idle_23
+  - first:
+      213: 4718869338107437148
+    second: Snow Cone Machine Idle_24
+  - first:
+      213: 6022942330480609057
+    second: Snow Cone Machine Idle_25
+  - first:
+      213: 6835817724814577690
+    second: Snow Cone Machine Idle_26
+  - first:
+      213: -387298129443100022
+    second: Snow Cone Machine Idle_27
+  - first:
+      213: 3462943240918527079
+    second: Snow Cone Machine Idle_28
+  - first:
+      213: 388953470616957071
+    second: Snow Cone Machine Idle_29
+  - first:
+      213: -7916492232234089210
+    second: Snow Cone Machine Idle_30
+  - first:
+      213: 4704236104971918313
+    second: Snow Cone Machine Idle_31
+  - first:
+      213: 3233261348321140456
+    second: Snow Cone Machine Idle_32
+  - first:
+      213: -8484400355308322626
+    second: Snow Cone Machine Idle_33
+  - first:
+      213: 6212086647187715633
+    second: Snow Cone Machine Idle_34
+  - first:
+      213: 617859476050580526
+    second: Snow Cone Machine Idle_35
+  - first:
+      213: -4542841132735748944
+    second: Snow Cone Machine Idle_36
+  - first:
+      213: 686872625427619073
+    second: Snow Cone Machine Idle_37
+  - first:
+      213: 6717951541786269899
+    second: Snow Cone Machine Idle_38
+  - first:
+      213: -6873188934908941985
+    second: Snow Cone Machine Idle_39
+  - first:
+      213: -5112140854079180553
+    second: Snow Cone Machine Idle_40
+  - first:
+      213: -7235380985287267767
+    second: Snow Cone Machine Idle_41
+  - first:
+      213: 3006295320840280165
+    second: Snow Cone Machine Idle_42
+  - first:
+      213: 1113489785600259580
+    second: Snow Cone Machine Idle_43
+  - first:
+      213: -798564425365873244
+    second: Snow Cone Machine Idle_44
+  - first:
+      213: -119151427501957074
+    second: Snow Cone Machine Idle_45
+  - first:
+      213: -8596289717452486917
+    second: Snow Cone Machine Idle_46
+  - first:
+      213: -313870782651076441
+    second: Snow Cone Machine Idle_47
+  - first:
+      213: -6936321126521056125
+    second: Snow Cone Machine Idle_48
+  - first:
+      213: 2296340038700610424
+    second: Snow Cone Machine Idle_49
+  - first:
+      213: -5559256804460000402
+    second: Snow Cone Machine Idle_50
+  - first:
+      213: -6081908216333564128
+    second: Snow Cone Machine Idle_51
+  - first:
+      213: -5833054264725036328
+    second: Snow Cone Machine Idle_52
+  - first:
+      213: -6913688697718658531
+    second: Snow Cone Machine Idle_53
+  - first:
+      213: -8620007861088690913
+    second: Snow Cone Machine Idle_54
+  - first:
+      213: -3108617127470435417
+    second: Snow Cone Machine Idle_55
+  - first:
+      213: 2196899538687190570
+    second: Snow Cone Machine Idle_56
+  - first:
+      213: -4700368859324031186
+    second: Snow Cone Machine Idle_57
+  - first:
+      213: 6412094426948529411
+    second: Snow Cone Machine Idle_58
+  - first:
+      213: 5697091728964078346
+    second: Snow Cone Machine Idle_59
+  - first:
+      213: 1760379134756007639
+    second: Snow Cone Machine Idle_60
+  - first:
+      213: 1943602884794253164
+    second: Snow Cone Machine Idle_61
+  - first:
+      213: -728975136785812785
+    second: Snow Cone Machine Idle_62
+  - first:
+      213: -7728132654128880376
+    second: Snow Cone Machine Idle_63
+  - first:
+      213: 1943653436364457173
+    second: Snow Cone Machine Idle_64
+  - first:
+      213: 1867726985688395203
+    second: Snow Cone Machine Idle_0
+  - first:
+      213: 3791755301319579445
+    second: Snow Cone Machine Idle_1
+  - first:
+      213: 1615528288199398587
+    second: Snow Cone Machine Idle_2
+  - first:
+      213: -75340150032116859
+    second: Snow Cone Machine Idle_3
+  - first:
+      213: -3767598345394385078
+    second: Snow Cone Machine Idle_4
+  - first:
+      213: 4768487230806480648
+    second: Snow Cone Machine Idle_5
+  - first:
+      213: 6856689189897125791
+    second: Snow Cone Machine Idle_6
+  - first:
+      213: 7107656616743390568
+    second: Snow Cone Machine Idle_7
+  - first:
+      213: 1960084644484696889
+    second: Snow Cone Machine Idle_8
+  - first:
+      213: -4287660252875950351
+    second: Snow Cone Machine Idle_9
+  - first:
+      213: 8275133884637963007
+    second: Snow Cone Machine Idle_10
+  - first:
+      213: 3447695771026775384
+    second: Snow Cone Machine Idle_11
+  - first:
+      213: -6972758108788898597
+    second: Snow Cone Machine Idle_12
+  - first:
+      213: -2009819796066086166
+    second: Snow Cone Machine Idle_13
+  - first:
+      213: 7516907627446995557
+    second: Snow Cone Machine Idle_14
+  - first:
+      213: 1821411993898502160
+    second: Snow Cone Machine Idle_15
+  - first:
+      213: 2550198106560923397
+    second: Snow Cone Machine Idle_16
+  - first:
+      213: 6763094542506719203
+    second: Snow Cone Machine Idle_17
+  - first:
+      213: 4289537348303552612
+    second: Snow Cone Machine Idle_18
+  - first:
+      213: 7975420723554854582
+    second: Snow Cone Machine Idle_19
+  - first:
+      213: 2853175045106967827
+    second: Snow Cone Machine Idle_20
+  - first:
+      213: 811891421898128478
+    second: Snow Cone Machine Idle_21
+  - first:
+      213: 1180538138868005899
+    second: Snow Cone Machine Idle_22
+  - first:
+      213: -1655857297273703094
+    second: Snow Cone Machine Idle_23
+  - first:
+      213: 8807212108076824554
+    second: Snow Cone Machine Idle_24
+  - first:
+      213: 7266106723339088252
+    second: Snow Cone Machine Idle_25
+  - first:
+      213: -931362480030538477
+    second: Snow Cone Machine Idle_26
+  - first:
+      213: -1039863594498383463
+    second: Snow Cone Machine Idle_27
+  - first:
+      213: -80518367728718308
+    second: Snow Cone Machine Idle_28
+  - first:
+      213: -1771036136821851882
+    second: Snow Cone Machine Idle_29
+  - first:
+      213: 106550118690521694
+    second: Snow Cone Machine Idle_30
+  - first:
+      213: -1373331972274440610
+    second: Snow Cone Machine Idle_31
+  - first:
+      213: 1532871013884028668
+    second: Snow Cone Machine Idle_32
+  - first:
+      213: -1649273791680025734
+    second: Snow Cone Machine Idle_33
+  - first:
+      213: -6345915672839432023
+    second: Snow Cone Machine Idle_34
+  - first:
+      213: -9050774774489862251
+    second: Snow Cone Machine Idle_35
+  - first:
+      213: 6864663266959338661
+    second: Snow Cone Machine Idle_36
+  - first:
+      213: 43537655136601694
+    second: Snow Cone Machine Idle_37
+  - first:
+      213: -2403235862410701937
+    second: Snow Cone Machine Idle_38
+  - first:
+      213: 2291433827253049642
+    second: Snow Cone Machine Idle_39
+  - first:
+      213: -7435999179877549036
+    second: Snow Cone Machine Idle_40
+  - first:
+      213: 2956596818862382393
+    second: Snow Cone Machine Idle_41
+  - first:
+      213: 5311163191736159577
+    second: Snow Cone Machine Idle_42
+  - first:
+      213: -2576990518772892836
+    second: Snow Cone Machine Idle_43
+  - first:
+      213: 2677816703341075408
+    second: Snow Cone Machine Idle_44
+  - first:
+      213: 394585956401917727
+    second: Snow Cone Machine Idle_45
+  - first:
+      213: -842537338527488039
+    second: Snow Cone Machine Idle_46
+  - first:
+      213: 1623050466782651980
+    second: Snow Cone Machine Idle_47
+  - first:
+      213: 6330140714468229827
+    second: Snow Cone Machine Idle_48
+  - first:
+      213: 1417501290957320346
+    second: Snow Cone Machine Idle_49
+  - first:
+      213: 7041716962082214892
+    second: Snow Cone Machine Idle_50
+  - first:
+      213: 6270748667777440959
+    second: Snow Cone Machine Idle_51
+  - first:
+      213: 146923237435440845
+    second: Snow Cone Machine Idle_52
+  - first:
+      213: -7451174001555020112
+    second: Snow Cone Machine Idle_53
+  - first:
+      213: 1812606982018119278
+    second: Snow Cone Machine Idle_54
+  - first:
+      213: -5170300025049517956
+    second: Snow Cone Machine Idle_55
+  - first:
+      213: 6356693294400761012
+    second: Snow Cone Machine Idle_56
+  - first:
+      213: -6685578478597648406
+    second: Snow Cone Machine Idle_57
+  - first:
+      213: 5213395592769802412
+    second: Snow Cone Machine Idle_58
+  - first:
+      213: -6243391896963621120
+    second: Snow Cone Machine Idle_59
+  - first:
+      213: 2554367689777500378
+    second: Snow Cone Machine Idle_60
+  - first:
+      213: 1290070169919183065
+    second: Snow Cone Machine Idle_61
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 180
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2652
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd2e5f3ccf7be910800000000000000
+      internalID: 1867726985688395203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2652
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5379b526b550f9430800000000000000
+      internalID: 3791755301319579445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2652
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb458be2b628b6610800000000000000
+      internalID: 1615528288199398587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_3
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 2652
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583d200688654fef0800000000000000
+      internalID: -75340150032116859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_4
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 2652
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f0b66344dc6bbc0800000000000000
+      internalID: -3767598345394385078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2431
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807d4343fd11d2240800000000000000
+      internalID: 4768487230806480648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_6
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2431
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f341b6d7ad72f50800000000000000
+      internalID: 6856689189897125791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2431
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dc172f80873a260800000000000000
+      internalID: 7107656616743390568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_8
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 2431
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b4534699e933b10800000000000000
+      internalID: 1960084644484696889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_9
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 2431
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f674cd87bb2f74c0800000000000000
+      internalID: -4287660252875950351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2210
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2e4aeac6e27d270800000000000000
+      internalID: 8275133884637963007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2210
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ddaad790da8df20800000000000000
+      internalID: 3447695771026775384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_12
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2210
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4c9ec7179cb3f90800000000000000
+      internalID: -6972758108788898597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_13
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 2210
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2dee04b8fab14e0800000000000000
+      internalID: -2009819796066086166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_14
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 2210
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a076f29ab615860800000000000000
+      internalID: 7516907627446995557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1989
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018c4f5ee84f64910800000000000000
+      internalID: 1821411993898502160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_16
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1989
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50700789aaf146320800000000000000
+      internalID: 2550198106560923397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_17
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1989
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7fe7c67a65bdd50800000000000000
+      internalID: 6763094542506719203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_18
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1989
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4608768cd7f778b30800000000000000
+      internalID: 4289537348303552612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_19
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1989
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6a6c974e26eae60800000000000000
+      internalID: 7975420723554854582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1768
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3152c953693889720800000000000000
+      internalID: 2853175045106967827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_21
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1768
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cbc6652fa644b00800000000000000
+      internalID: 811891421898128478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_22
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1768
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c370bbe2d126010800000000000000
+      internalID: 1180538138868005899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_23
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1768
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45334daf863509e0800000000000000
+      internalID: -1655857297273703094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_24
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1768
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7307befb0893a70800000000000000
+      internalID: 8807212108076824554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1547
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7134b0419566d460800000000000000
+      internalID: 7266106723339088252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_26
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1547
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31527ac42c22313f0800000000000000
+      internalID: -931362480030538477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_27
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1547
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991201bf199a191f0800000000000000
+      internalID: -1039863594498383463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_28
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1547
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ea2ad98f0f1eef0800000000000000
+      internalID: -80518367728718308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_29
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1547
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6197a5454040c67e0800000000000000
+      internalID: -1771036136821851882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1326
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e520357b4ca8a7100800000000000000
+      internalID: 106550118690521694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_31
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1326
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5635e1f8d1f0fce0800000000000000
+      internalID: -1373331972274440610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_32
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1326
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6ec0dc01ad54510800000000000000
+      internalID: 1532871013884028668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_33
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1326
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bec85893a9c19e0800000000000000
+      internalID: -1649273791680025734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_34
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1326
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a852d15157cee7a0800000000000000
+      internalID: -6345915672839432023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1105
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f2770bb40356280800000000000000
+      internalID: -9050774774489862251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_36
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1105
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aca8c9eede244f50800000000000000
+      internalID: 6864663266959338661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_37
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1105
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5645c4444daa9000800000000000000
+      internalID: 43537655136601694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_38
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1105
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83d78d47bdf5aed0800000000000000
+      internalID: -2403235862410701937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_39
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1105
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a295bb3eceecccf10800000000000000
+      internalID: 2291433827253049642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 884
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c7d4db4260ec890800000000000000
+      internalID: -7435999179877549036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_41
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 884
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d975c5421f70920800000000000000
+      internalID: 2956596818862382393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_42
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 884
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d409b78ca05b940800000000000000
+      internalID: 5311163191736159577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_43
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 884
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bfdf2d6c0bc3cd0800000000000000
+      internalID: -2576990518772892836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_44
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 884
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db9040aa14892520800000000000000
+      internalID: 2677816703341075408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 663
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fa1b436d9d97500800000000000000
+      internalID: 394585956401917727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_46
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 663
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7e01b21c4be44f0800000000000000
+      internalID: -842537338527488039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_47
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 663
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46ac1ddccb368610800000000000000
+      internalID: 1623050466782651980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_48
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 663
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2cd18f07d29d750800000000000000
+      internalID: 6330140714468229827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_49
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 663
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a903b24f9e9fba310800000000000000
+      internalID: 1417501290957320346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 442
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3d0c5b44439b160800000000000000
+      internalID: 7041716962082214892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_51
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 442
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcd0a280bc260750800000000000000
+      internalID: 6270748667777440959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_52
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 442
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcef690f7e9f90200800000000000000
+      internalID: 146923237435440845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_53
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 442
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6efad39bc189890800000000000000
+      internalID: -7451174001555020112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_54
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 442
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e663590527ca72910800000000000000
+      internalID: 1812606982018119278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70fab845876f38b0800000000000000
+      internalID: -5170300025049517956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_56
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 221
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc6dde3fd2873850800000000000000
+      internalID: 6356693294400761012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_57
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 221
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefc031abcd0833a0800000000000000
+      internalID: -6685578478597648406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_58
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 221
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca091ac7ba3b95840800000000000000
+      internalID: 5213395592769802412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_59
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 221
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f5eeb06240b59a0800000000000000
+      internalID: -6243391896963621120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad05ce651efe27320800000000000000
+      internalID: 2554367689777500378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow Cone Machine Idle_61
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d85c550cff37e110800000000000000
+      internalID: 1290070169919183065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
